@@ -8,8 +8,6 @@
 - [Technologies Used](#technologies-used)
 - [Premium vs Free Accounts](#premium-vs-free-accounts)
 - [Folder Structure](#folder-structure)
-- [Usage](#usage)
-- [License](#license)
 
 ## Features
 
