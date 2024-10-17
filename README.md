@@ -1,2 +1,2 @@
 # HM-TravelSnap
-A travel journal platform
+A Travel Journal Platform
